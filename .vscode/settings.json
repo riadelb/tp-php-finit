@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "tp-php/tp-php.sqlproj"
+    ]
+}
